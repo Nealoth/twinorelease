@@ -1,0 +1,712 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="buildSrc:test" external.linked.project.path="$MODULE_DIR$/../../buildSrc" external.root.project.path="$MODULE_DIR$/../.." external.system.id="GRADLE" external.system.module.group="" external.system.module.type="sourceSet" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
+    <output-test url="file://$MODULE_DIR$/../../buildSrc/build/classes/java/test" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../buildSrc/build/generated/sources/annotationProcessor/groovy/test">
+      <sourceFolder url="file://$MODULE_DIR$/../../buildSrc/build/generated/sources/annotationProcessor/groovy/test" isTestSource="true" generated="true" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../buildSrc/build/generated/sources/annotationProcessor/java/test">
+      <sourceFolder url="file://$MODULE_DIR$/../../buildSrc/build/generated/sources/annotationProcessor/java/test" isTestSource="true" generated="true" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../buildSrc/src/test" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="twinoreleaseproj.buildSrc.main" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/5.4.1/generated-gradle-jars/gradle-api-5.4.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file:///usr/local/Cellar/gradle/5.4.1/libexec/src/ide" />
+          <root url="file:///usr/local/Cellar/gradle/5.4.1/libexec/src/internal-integ-testing" />
+          <root url="file:///usr/local/Cellar/gradle/5.4.1/libexec/src/platform-native" />
+          <root url="file:///usr/local/Cellar/gradle/5.4.1/libexec/src/reporting" />
+          <root url="file:///usr/local/Cellar/gradle/5.4.1/libexec/src/language-groovy" />
+          <root url="file:///usr/local/Cellar/gradle/5.4.1/libexec/src/build-option" />
+          <root url="file:///usr/local/Cellar/gradle/5.4.1/libexec/src/launcher" />
+          <root url="file:///usr/local/Cellar/gradle/5.4.1/libexec/src/platform-base" />
+          <root url="file:///usr/local/Cellar/gradle/5.4.1/libexec/src/announce" />
+          <root url="file:///usr/local/Cellar/gradle/5.4.1/libexec/src/signing" />
+          <root url="file:///usr/local/Cellar/gradle/5.4.1/libexec/src/core" />
+          <root url="file:///usr/local/Cellar/gradle/5.4.1/libexec/src/installation-beacon" />
+          <root url="file:///usr/local/Cellar/gradle/5.4.1/libexec/src/jvm-services" />
+          <root url="file:///usr/local/Cellar/gradle/5.4.1/libexec/src/native" />
+          <root url="file:///usr/local/Cellar/gradle/5.4.1/libexec/src/tooling-api" />
+          <root url="file:///usr/local/Cellar/gradle/5.4.1/libexec/src/platform-play" />
+          <root url="file:///usr/local/Cellar/gradle/5.4.1/libexec/src/ivy" />
+          <root url="file:///usr/local/Cellar/gradle/5.4.1/libexec/src/wrapper" />
+          <root url="file:///usr/local/Cellar/gradle/5.4.1/libexec/src/process-services" />
+          <root url="file:///usr/local/Cellar/gradle/5.4.1/libexec/src/snapshots" />
+          <root url="file:///usr/local/Cellar/gradle/5.4.1/libexec/src/plugins" />
+          <root url="file:///usr/local/Cellar/gradle/5.4.1/libexec/src/antlr" />
+          <root url="file:///usr/local/Cellar/gradle/5.4.1/libexec/src/plugin-use" />
+          <root url="file:///usr/local/Cellar/gradle/5.4.1/libexec/src/language-jvm" />
+          <root url="file:///usr/local/Cellar/gradle/5.4.1/libexec/src/maven" />
+          <root url="file:///usr/local/Cellar/gradle/5.4.1/libexec/src/testing-base" />
+          <root url="file:///usr/local/Cellar/gradle/5.4.1/libexec/src/resources" />
+          <root url="file:///usr/local/Cellar/gradle/5.4.1/libexec/src/version-control" />
+          <root url="file:///usr/local/Cellar/gradle/5.4.1/libexec/src/osgi" />
+          <root url="file:///usr/local/Cellar/gradle/5.4.1/libexec/src/testing-junit-platform" />
+          <root url="file:///usr/local/Cellar/gradle/5.4.1/libexec/src/resources-http" />
+          <root url="file:///usr/local/Cellar/gradle/5.4.1/libexec/src/internal-testing" />
+          <root url="file:///usr/local/Cellar/gradle/5.4.1/libexec/src/composite-builds" />
+          <root url="file:///usr/local/Cellar/gradle/5.4.1/libexec/src/model-groovy" />
+          <root url="file:///usr/local/Cellar/gradle/5.4.1/libexec/src/test-kit" />
+          <root url="file:///usr/local/Cellar/gradle/5.4.1/libexec/src/docs" />
+          <root url="file:///usr/local/Cellar/gradle/5.4.1/libexec/src/cli" />
+          <root url="file:///usr/local/Cellar/gradle/5.4.1/libexec/src/build-init" />
+          <root url="file:///usr/local/Cellar/gradle/5.4.1/libexec/src/kotlin-dsl-plugins" />
+          <root url="file:///usr/local/Cellar/gradle/5.4.1/libexec/src/ear" />
+          <root url="file:///usr/local/Cellar/gradle/5.4.1/libexec/src/jacoco" />
+          <root url="file:///usr/local/Cellar/gradle/5.4.1/libexec/src/kotlin-dsl-tooling-models" />
+          <root url="file:///usr/local/Cellar/gradle/5.4.1/libexec/src/persistent-cache" />
+          <root url="file:///usr/local/Cellar/gradle/5.4.1/libexec/src/build-comparison" />
+          <root url="file:///usr/local/Cellar/gradle/5.4.1/libexec/src/kotlin-dsl" />
+          <root url="file:///usr/local/Cellar/gradle/5.4.1/libexec/src/publish" />
+          <root url="file:///usr/local/Cellar/gradle/5.4.1/libexec/src/platform-jvm" />
+          <root url="file:///usr/local/Cellar/gradle/5.4.1/libexec/src/resources-sftp" />
+          <root url="file:///usr/local/Cellar/gradle/5.4.1/libexec/src/kotlin-dsl-test-fixtures" />
+          <root url="file:///usr/local/Cellar/gradle/5.4.1/libexec/src/base-services" />
+          <root url="file:///usr/local/Cellar/gradle/5.4.1/libexec/src/model-core" />
+          <root url="file:///usr/local/Cellar/gradle/5.4.1/libexec/src/scala" />
+          <root url="file:///usr/local/Cellar/gradle/5.4.1/libexec/src/kotlin-dsl-tooling-builders" />
+          <root url="file:///usr/local/Cellar/gradle/5.4.1/libexec/src/execution" />
+          <root url="file:///usr/local/Cellar/gradle/5.4.1/libexec/src/diagnostics" />
+          <root url="file:///usr/local/Cellar/gradle/5.4.1/libexec/src/dependency-management" />
+          <root url="file:///usr/local/Cellar/gradle/5.4.1/libexec/src/files" />
+          <root url="file:///usr/local/Cellar/gradle/5.4.1/libexec/src/ide-play" />
+          <root url="file:///usr/local/Cellar/gradle/5.4.1/libexec/src/workers" />
+          <root url="file:///usr/local/Cellar/gradle/5.4.1/libexec/src/code-quality" />
+          <root url="file:///usr/local/Cellar/gradle/5.4.1/libexec/src/language-java" />
+          <root url="file:///usr/local/Cellar/gradle/5.4.1/libexec/src/build-profile" />
+          <root url="file:///usr/local/Cellar/gradle/5.4.1/libexec/src/build-cache" />
+          <root url="file:///usr/local/Cellar/gradle/5.4.1/libexec/src/plugin-development" />
+          <root url="file:///usr/local/Cellar/gradle/5.4.1/libexec/src/core-api" />
+          <root url="file:///usr/local/Cellar/gradle/5.4.1/libexec/src/javascript" />
+          <root url="file:///usr/local/Cellar/gradle/5.4.1/libexec/src/resources-gcs" />
+          <root url="file:///usr/local/Cellar/gradle/5.4.1/libexec/src/testing-native" />
+          <root url="file:///usr/local/Cellar/gradle/5.4.1/libexec/src/internal-performance-testing" />
+          <root url="file:///usr/local/Cellar/gradle/5.4.1/libexec/src/ide-native" />
+          <root url="file:///usr/local/Cellar/gradle/5.4.1/libexec/src/base-services-groovy" />
+          <root url="file:///usr/local/Cellar/gradle/5.4.1/libexec/src/tooling-native" />
+          <root url="file:///usr/local/Cellar/gradle/5.4.1/libexec/src/messaging" />
+          <root url="file:///usr/local/Cellar/gradle/5.4.1/libexec/src/testing-jvm" />
+          <root url="file:///usr/local/Cellar/gradle/5.4.1/libexec/src/tooling-api-builders" />
+          <root url="file:///usr/local/Cellar/gradle/5.4.1/libexec/src/logging" />
+          <root url="file:///usr/local/Cellar/gradle/5.4.1/libexec/src/language-scala" />
+          <root url="file:///usr/local/Cellar/gradle/5.4.1/libexec/src/language-native" />
+          <root url="file:///usr/local/Cellar/gradle/5.4.1/libexec/src/resources-s3" />
+          <root url="file:///usr/local/Cellar/gradle/5.4.1/libexec/src/kotlin-dsl-provider-plugins" />
+          <root url="file:///usr/local/Cellar/gradle/5.4.1/libexec/src/build-cache-packaging" />
+          <root url="file:///usr/local/Cellar/gradle/5.4.1/libexec/src/internal-android-performance-testing" />
+          <root url="file:///usr/local/Cellar/gradle/5.4.1/libexec/src/build-cache-http" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///usr/local/Cellar/gradle/5.4.1/libexec/lib/gradle-installation-beacon-5.4.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file:///usr/local/Cellar/gradle/5.4.1/libexec/src/installation-beacon" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///usr/local/Cellar/gradle/5.4.1/libexec/lib/groovy-all-1.0-2.5.4.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="PROVIDED">
+      <library name="Gradle: org.projectlombok:lombok:1.18.2">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.projectlombok/lombok/1.18.2/524e0a697e9d62950b2f763d88d35cd8dc82a9a1/lombok-1.18.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.projectlombok/lombok/1.18.2/777a74656e7999ef50a01b57be835bfddeb30e4c/lombok-1.18.2-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/5.4.1/generated-gradle-jars/gradle-api-5.4.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="Gradle: org.eclipse.jgit:org.eclipse.jgit:5.4.0.201906121030-r">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.jgit/org.eclipse.jgit/5.4.0.201906121030-r/bb89304715c2488cbf021dd4d434e86d785f7fe4/org.eclipse.jgit-5.4.0.201906121030-r.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.jgit/org.eclipse.jgit/5.4.0.201906121030-r/f45477bd4857402dbe325e9e8fd45a59ec7be69a/org.eclipse.jgit-5.4.0.201906121030-r-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///usr/local/Cellar/gradle/5.4.1/libexec/lib/gradle-installation-beacon-5.4.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="Gradle: org.spockframework:spock-core:1.3-groovy-2.5">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.spockframework/spock-core/1.3-groovy-2.5/6f0df2cf4549dcc4b914971675da7e224e893e82/spock-core-1.3-groovy-2.5.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.spockframework/spock-core/1.3-groovy-2.5/9726a6007ac266047cdc616c9111e552d565800c/spock-core-1.3-groovy-2.5-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="Gradle: org.codehaus.groovy:groovy-test:2.5.7">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.codehaus.groovy/groovy-test/2.5.7/19d923f3d5180132d3b962d92b6d4896cc92386e/groovy-test-2.5.7.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.codehaus.groovy/groovy-test/2.5.7/2291c91447c3a90c418eae10bb6437a9cfa91843/groovy-test-2.5.7-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="library" name="Gradle: junit:junit:4.12" level="project" />
+    <orderEntry type="library" name="Gradle: org.hamcrest:hamcrest-core:1.3" level="project" />
+    <orderEntry type="module-library">
+      <library name="Gradle: com.jcraft:jsch:0.1.55">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jcraft/jsch/0.1.55/bbd40e5aa7aa3cfad5db34965456cee738a42a50/jsch-0.1.55.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jcraft/jsch/0.1.55/1ed25a5ba2c0bbe14bae93817b76a246e622efd7/jsch-0.1.55-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="Gradle: com.jcraft:jzlib:1.1.1">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jcraft/jzlib/1.1.1/a1551373315ffc2f96130a0e5704f74e151777ba/jzlib-1.1.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jcraft/jzlib/1.1.1/dc910806edfb4c9a4b4c7e439a9cd3a3f0a090a9/jzlib-1.1.1-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="Gradle: com.googlecode.javaewah:JavaEWAH:1.1.6">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.googlecode.javaewah/JavaEWAH/1.1.6/94ad16d728b374d65bd897625f3fbb3da223a2b6/JavaEWAH-1.1.6.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.googlecode.javaewah/JavaEWAH/1.1.6/ca2745e91c6a51f8e6809d1579bda36ad83f1f58/JavaEWAH-1.1.6-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="Gradle: org.slf4j:slf4j-api:1.7.2">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.2/81d61b7f33ebeab314e07de0cc596f8e858d97/slf4j-api-1.7.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.2/58d38f68d4a867d4552ae27960bb348d7eaa1297/slf4j-api-1.7.2-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library name="Gradle: net.bytebuddy:byte-buddy:1.9.3">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.bytebuddy/byte-buddy/1.9.3/f32e510b239620852fc9a2387fac41fd053d6a4d/byte-buddy-1.9.3.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.bytebuddy/byte-buddy/1.9.3/ef8bdb760633510eed72e262193d6afbc451cc72/byte-buddy-1.9.3-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="Gradle: org.bouncycastle:bcpg-jdk15on:1.61">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.bouncycastle/bcpg-jdk15on/1.61/422656435514ab8a28752b117d5d2646660a0ace/bcpg-jdk15on-1.61.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.bouncycastle/bcpg-jdk15on/1.61/836da34e11114cbce8fa99f54175f8f3278d1cce/bcpg-jdk15on-1.61-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library name="Gradle: org.objenesis:objenesis:2.6">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.objenesis/objenesis/2.6/639033469776fd37c08358c6b92a4761feb2af4b/objenesis-2.6.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.objenesis/objenesis/2.6/96614f514a1031296657bf0dde452dc15e42fcb8/objenesis-2.6-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="Gradle: org.bouncycastle:bcpkix-jdk15on:1.61">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.bouncycastle/bcpkix-jdk15on/1.61/89bb3aa5b98b48e584eee2a7401b7682a46779b4/bcpkix-jdk15on-1.61.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.bouncycastle/bcpkix-jdk15on/1.61/a0498d09200a18737eccc05aa81bbd05c1be0f8c/bcpkix-jdk15on-1.61-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="Gradle: org.bouncycastle:bcprov-jdk15on:1.61">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.bouncycastle/bcprov-jdk15on/1.61/df4b474e71be02c1349c3292d98886f888d1f7/bcprov-jdk15on-1.61.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.bouncycastle/bcprov-jdk15on/1.61/3bf88046a16098ea6cc41576dd50d512854d39e1/bcprov-jdk15on-1.61-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="Gradle: org.codehaus.groovy:groovy-ant:2.5.7">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.codehaus.groovy/groovy-ant/2.5.7/c63fbb1275031ebf49689f999707746a312fc1be/groovy-ant-2.5.7.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.codehaus.groovy/groovy-ant/2.5.7/db77cf6332ccc9715c017d21ac97e9ef86507ee8/groovy-ant-2.5.7-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="Gradle: org.codehaus.groovy:groovy-cli-commons:2.5.7">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.codehaus.groovy/groovy-cli-commons/2.5.7/62005bf315183e25c6b1a9a74206e11a5e14fdbf/groovy-cli-commons-2.5.7.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.codehaus.groovy/groovy-cli-commons/2.5.7/8795b73948b26008db15a3dce3b3971e4460a855/groovy-cli-commons-2.5.7-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="Gradle: org.codehaus.groovy:groovy-groovysh:2.5.7">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.codehaus.groovy/groovy-groovysh/2.5.7/81e8a67b4be3363d1a6c8dcfa6d58ae70b8fb428/groovy-groovysh-2.5.7.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.codehaus.groovy/groovy-groovysh/2.5.7/a6df5ef3f9046f819227e53751ef8112a942367/groovy-groovysh-2.5.7-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="Gradle: org.codehaus.groovy:groovy-console:2.5.7">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.codehaus.groovy/groovy-console/2.5.7/6452a12e3c8e12bcde4f7eeffc37fc80fce58bbd/groovy-console-2.5.7.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.codehaus.groovy/groovy-console/2.5.7/8ef6a727853f044e9ef5faf8cc3023f4b4e9d948/groovy-console-2.5.7-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="Gradle: org.codehaus.groovy:groovy-docgenerator:2.5.7">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.codehaus.groovy/groovy-docgenerator/2.5.7/e58683d27c28fee32ba39c7057caa580f16c5049/groovy-docgenerator-2.5.7.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.codehaus.groovy/groovy-docgenerator/2.5.7/7e8256bf551fa1d5df7909a4b8dfcf1da41a3f4b/groovy-docgenerator-2.5.7-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="Gradle: org.codehaus.groovy:groovy-groovydoc:2.5.7">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.codehaus.groovy/groovy-groovydoc/2.5.7/37f09fbb63523ebba9afe923cfcbd6e6eee228c0/groovy-groovydoc-2.5.7.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.codehaus.groovy/groovy-groovydoc/2.5.7/9c2429730edbdfaa5cc6c3e273b1df0cd862aabf/groovy-groovydoc-2.5.7-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="Gradle: org.codehaus.groovy:groovy-cli-picocli:2.5.7">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.codehaus.groovy/groovy-cli-picocli/2.5.7/671a7bb0d9f9b861f52d23f7b3d0c2262425a47a/groovy-cli-picocli-2.5.7.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.codehaus.groovy/groovy-cli-picocli/2.5.7/6eab2fb078a9dc1bc8a07723d42d46eef570367/groovy-cli-picocli-2.5.7-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="Gradle: org.codehaus.groovy:groovy-datetime:2.5.7">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.codehaus.groovy/groovy-datetime/2.5.7/539a073b211e1aaac4219bdfaaa4e8ca6658e771/groovy-datetime-2.5.7.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.codehaus.groovy/groovy-datetime/2.5.7/432a9126bac81f5e05119847efb1162ef85bf25c/groovy-datetime-2.5.7-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="Gradle: org.codehaus.groovy:groovy-jmx:2.5.7">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.codehaus.groovy/groovy-jmx/2.5.7/b594b8ace1a552d46c8fa188958cdd9535dfd6c2/groovy-jmx-2.5.7.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.codehaus.groovy/groovy-jmx/2.5.7/2da2ed7d9985a32f83313d7be2e03f2243224e4c/groovy-jmx-2.5.7-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="Gradle: org.codehaus.groovy:groovy-json:2.5.7">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.codehaus.groovy/groovy-json/2.5.7/fbe5c5450d2b9b4a940391b37f2089cc8bec27/groovy-json-2.5.7.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.codehaus.groovy/groovy-json/2.5.7/f609a4f52b9b4d77647dbd1489276e66b2534b54/groovy-json-2.5.7-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="Gradle: org.codehaus.groovy:groovy-jsr223:2.5.7">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.codehaus.groovy/groovy-jsr223/2.5.7/13f59978ebc7fd57394ddd126fe86aecfd9ab3bc/groovy-jsr223-2.5.7.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.codehaus.groovy/groovy-jsr223/2.5.7/f5377fa70420c5c68174816a51d9534bdd1432e3/groovy-jsr223-2.5.7-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="Gradle: org.codehaus.groovy:groovy-macro:2.5.7">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.codehaus.groovy/groovy-macro/2.5.7/8ab4f44ed068c56f43388df18bcb38d8f42c8e7e/groovy-macro-2.5.7.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.codehaus.groovy/groovy-macro/2.5.7/522a8166de1ec9123f9443296e8b1fcccf66f59b/groovy-macro-2.5.7-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="Gradle: org.codehaus.groovy:groovy-nio:2.5.7">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.codehaus.groovy/groovy-nio/2.5.7/ca4241d24280c634a929cfd6e9b7ab2e025d0da4/groovy-nio-2.5.7.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.codehaus.groovy/groovy-nio/2.5.7/916ee4a79f3ae5772ebeb99caf20e22cffbc859e/groovy-nio-2.5.7-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="Gradle: org.codehaus.groovy:groovy-servlet:2.5.7">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.codehaus.groovy/groovy-servlet/2.5.7/d1ec9bd84a5bf72c7a065d005136d09992e45a42/groovy-servlet-2.5.7.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.codehaus.groovy/groovy-servlet/2.5.7/9fad57eea1fae0f19491b0b84aacc56c4f7cd8e2/groovy-servlet-2.5.7-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="Gradle: org.codehaus.groovy:groovy-sql:2.5.7">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.codehaus.groovy/groovy-sql/2.5.7/89b9287dc94f9f602e10e32cb85aa43db3f59a7d/groovy-sql-2.5.7.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.codehaus.groovy/groovy-sql/2.5.7/40f3b9cec13878e6aa4db064bc9c74cf2009563a/groovy-sql-2.5.7-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="Gradle: org.codehaus.groovy:groovy-swing:2.5.7">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.codehaus.groovy/groovy-swing/2.5.7/e965ffa7b45510aede554147648df97690a00f62/groovy-swing-2.5.7.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.codehaus.groovy/groovy-swing/2.5.7/1e6b161ec1d4b7cfc64ca320bbbe9467fa428a02/groovy-swing-2.5.7-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="Gradle: org.codehaus.groovy:groovy-templates:2.5.7">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.codehaus.groovy/groovy-templates/2.5.7/b21dfa125299670d0738044cc2d1f5d9ab80e6a9/groovy-templates-2.5.7.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.codehaus.groovy/groovy-templates/2.5.7/3e071ec8343b685538c0533e7a0f0ed10488eedf/groovy-templates-2.5.7-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="Gradle: org.codehaus.groovy:groovy-test-junit5:2.5.7">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.codehaus.groovy/groovy-test-junit5/2.5.7/32a48073f6578644b0769c471eaf533732dfc5f/groovy-test-junit5-2.5.7.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.codehaus.groovy/groovy-test-junit5/2.5.7/ac10cdc0f76049d64f89c1733b35de067fafdce1/groovy-test-junit5-2.5.7-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="Gradle: org.codehaus.groovy:groovy-testng:2.5.7">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.codehaus.groovy/groovy-testng/2.5.7/39bacf3fa6b3ec7675c4dc4b9b5345bcde3b6d7d/groovy-testng-2.5.7.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.codehaus.groovy/groovy-testng/2.5.7/c207e31f562f1dc95f712eebfdcb94bef0735bee/groovy-testng-2.5.7-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="Gradle: org.codehaus.groovy:groovy-xml:2.5.7">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.codehaus.groovy/groovy-xml/2.5.7/7cd039b9ec0f8f3896fff31a08f82aa61282ec10/groovy-xml-2.5.7.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.codehaus.groovy/groovy-xml/2.5.7/16bb164b2043a5162d3c8bda6c131526e03e3a4d/groovy-xml-2.5.7-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="Gradle: org.codehaus.groovy:groovy:2.5.7">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.codehaus.groovy/groovy/2.5.7/99907efe4b69f800c42584386f5d668e4d952bd5/groovy-2.5.7.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.codehaus.groovy/groovy/2.5.7/ef0777fbeb1e8ef976019533b3ec025a4ad4abbe/groovy-2.5.7-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="Gradle: org.apache.ant:ant:1.9.13">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.ant/ant/1.9.13/7aff87f91ffda6916751e39bb5688f0a53710ec4/ant-1.9.13.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.ant/ant/1.9.13/1b08a2d90e4ed56316950079ad9a2cf812092e1a/ant-1.9.13-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="Gradle: commons-cli:commons-cli:1.4">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-cli/commons-cli/1.4/c51c00206bb913cd8612b24abd9fa98ae89719b1/commons-cli-1.4.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-cli/commons-cli/1.4/40dfd9fdef125e19136135e68d54af6d9b0cfbb8/commons-cli-1.4-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="Gradle: info.picocli:picocli:3.9.5">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/info.picocli/picocli/3.9.5/f659a2feef0e8f7f8458aaf7d36c4d92f65320c8/picocli-3.9.5.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/info.picocli/picocli/3.9.5/9bc4992d3b7d98885a2c42c301654f54b13a5747/picocli-3.9.5-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="Gradle: com.thoughtworks.qdox:qdox:1.12.1">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.thoughtworks.qdox/qdox/1.12.1/f7122f6ab1f64bdf9f5970b0e89bfb355e036897/qdox-1.12.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.thoughtworks.qdox/qdox/1.12.1/a284148a118e10bb84598dfb83f19d1ff128afad/qdox-1.12.1-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="Gradle: jline:jline:2.14.6">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/jline/jline/2.14.6/c3aeac59c022bdc497c8c48ed86fa50450e4896a/jline-2.14.6.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/jline/jline/2.14.6/e93dc55cf5b6f201e850ed339fa52e50d51105d5/jline-2.14.6-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="Gradle: org.junit.platform:junit-platform-launcher:1.4.0">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.junit.platform/junit-platform-launcher/1.4.0/5cc8b7b305ffc79aa124a1a4fe5efab114f28cac/junit-platform-launcher-1.4.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.junit.platform/junit-platform-launcher/1.4.0/6c7b5c5038e82f9b969d3a9d3d9624ea9fca98aa/junit-platform-launcher-1.4.0-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library name="Gradle: org.apache.ant:ant-junit:1.9.13">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.ant/ant-junit/1.9.13/618f3aac074fabfea4712db2635409a592da9ecd/ant-junit-1.9.13.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.ant/ant-junit/1.9.13/9c80b02a274bd495f458fbe477b1925e80e58a6d/ant-junit-1.9.13-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="Gradle: org.apache.ant:ant-launcher:1.9.13">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.ant/ant-launcher/1.9.13/24cf1a899bb4b69373dc4cd000bb52a9f46c459d/ant-launcher-1.9.13.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.ant/ant-launcher/1.9.13/f48c4ba6dbf4652032f82030c64a1b580d824d74/ant-launcher-1.9.13-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="Gradle: org.junit.platform:junit-platform-engine:1.4.0">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.junit.platform/junit-platform-engine/1.4.0/b4419dc190a5d82b9cac6b52e0af9140895c3f87/junit-platform-engine-1.4.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.junit.platform/junit-platform-engine/1.4.0/44fdbe60e0df90028edf59d9ffdf06d9fc0e43d9/junit-platform-engine-1.4.0-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="Gradle: org.junit.platform:junit-platform-commons:1.4.0">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.junit.platform/junit-platform-commons/1.4.0/e0b2ed8fac32ad6469d75d034e759f1969db8dda/junit-platform-commons-1.4.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.junit.platform/junit-platform-commons/1.4.0/12517867d09f09a4e829b80bfc958f69d883fc11/junit-platform-commons-1.4.0-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library name="Gradle: org.apache.ant:ant-antlr:1.9.13">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.ant/ant-antlr/1.9.13/d5b701718c6de5620fa78e0aedb64cdcae1336cf/ant-antlr-1.9.13.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.ant/ant-antlr/1.9.13/c1295b90bdc2c8586fa0ccce7d7618ba1f8739cc/ant-antlr-1.9.13-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="Gradle: org.apiguardian:apiguardian-api:1.0.0">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apiguardian/apiguardian-api/1.0.0/3ef5276905e36f4d8055fe3cb0bdcc7503ffc85d/apiguardian-api-1.0.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apiguardian/apiguardian-api/1.0.0/777508fa9f3e03cafb3c1fb2eba3dca317f4b1ee/apiguardian-api-1.0.0-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="Gradle: org.opentest4j:opentest4j:1.1.1">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.opentest4j/opentest4j/1.1.1/efd9f971e91074491ea55b19f67b13470cf4fcdd/opentest4j-1.1.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.opentest4j/opentest4j/1.1.1/88a3a2cb15c413565462cea99f201b67bc6d2f10/opentest4j-1.1.1-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library name="Gradle: org.junit.jupiter:junit-jupiter-engine:5.4.0">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.junit.jupiter/junit-jupiter-engine/5.4.0/30083adf3fbd7b734f12e6cb4d99dedab99fc34b/junit-jupiter-engine-5.4.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.junit.jupiter/junit-jupiter-engine/5.4.0/6c8bbb6dc869058053ba370d5f9699656e2bc93/junit-jupiter-engine-5.4.0-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library name="Gradle: org.testng:testng:6.13.1">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.testng/testng/6.13.1/2495393a0b4b7d7a4b49ea1f8516376f70f482c/testng-6.13.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.testng/testng/6.13.1/a2b77dfee647263d2c1010215441bfa3e28c4b9c/testng-6.13.1-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library name="Gradle: org.junit.jupiter:junit-jupiter-api:5.4.0">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.junit.jupiter/junit-jupiter-api/5.4.0/1a09f25a160f71c267f9ebe3b229b17805c683e9/junit-jupiter-api-5.4.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.junit.jupiter/junit-jupiter-api/5.4.0/1c4c344124325ada996131e1ba8bbe26108a869f/junit-jupiter-api-5.4.0-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library name="Gradle: com.beust:jcommander:1.72">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.beust/jcommander/1.72/6375e521c1e11d6563d4f25a07ce124ccf8cd171/jcommander-1.72.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.beust/jcommander/1.72/7ef123d5dfb6f839b41265648ff1be34982d50f8/jcommander-1.72-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+  <component name="TestModuleProperties" production-module="twinoreleaseproj.buildSrc.main" />
+</module>

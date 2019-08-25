@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="twinoreleaseproj.buildSrc.main" target="1.8" />
+      <module name="twinoreleaseproj.buildSrc.test" target="1.8" />
+      <module name="twinoreleaseproj.main" target="1.8" />
+      <module name="twinoreleaseproj.test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

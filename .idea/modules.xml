@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/twinoreleaseproj.iml" filepath="$PROJECT_DIR$/.idea/modules/twinoreleaseproj.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/twinoreleaseproj.buildSrc.iml" filepath="$PROJECT_DIR$/.idea/modules/twinoreleaseproj.buildSrc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/twinoreleaseproj.buildSrc.main.iml" filepath="$PROJECT_DIR$/.idea/modules/twinoreleaseproj.buildSrc.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/twinoreleaseproj.buildSrc.test.iml" filepath="$PROJECT_DIR$/.idea/modules/twinoreleaseproj.buildSrc.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/twinoreleaseproj.main.iml" filepath="$PROJECT_DIR$/.idea/modules/twinoreleaseproj.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/twinoreleaseproj.test.iml" filepath="$PROJECT_DIR$/.idea/modules/twinoreleaseproj.test.iml" />
+    </modules>
+  </component>
+</project>
